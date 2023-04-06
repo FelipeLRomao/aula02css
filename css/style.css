@@ -9,6 +9,8 @@ p{
 }
 
 span{
-    color: #fffdb6;
+    color: #ffffff;
     line-height: 200%;
+    font-style: italic;
+    text-shadow: 13px 23px 51px #ff0000;
 }
