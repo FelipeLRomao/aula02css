@@ -1,0 +1,14 @@
+body{
+    font-family: 'Alkatra', cursive;
+
+}
+
+p{
+    color: rgb(125, 231, 255);    
+    font-weight: 900;
+}
+
+span{
+    color: #fffdb6;
+    line-height: 200%;
+}
